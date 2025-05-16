@@ -35,3 +35,9 @@ voice_chatbot_project/
 
 ## 👨‍💻 Dibuat Untuk
 Proyek UAS mata kuliah *Pemrosesan Bahasa Alami* — Semester Genap 2024/2025.
+
+## Link Presentasi Youtube
+https://youtu.be/4jqllXftTcU
+
+## Link Postingan Linkedin
+https://www.linkedin.com/posts/muhammad-habil-aswad_naturallanguageprocessing-speechtotext-texttospeech-activity-7329092417524027392-GRrq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPe3NQBV7eGlw-3fxeacIpgAMQ_KD-dblo
